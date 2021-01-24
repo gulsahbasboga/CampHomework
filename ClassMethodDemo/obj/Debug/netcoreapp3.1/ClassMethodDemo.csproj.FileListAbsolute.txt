@@ -1,0 +1,12 @@
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/bin/Debug/netcoreapp3.1/ClassMethodDemo.deps.json
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/bin/Debug/netcoreapp3.1/ClassMethodDemo.runtimeconfig.json
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/bin/Debug/netcoreapp3.1/ClassMethodDemo.runtimeconfig.dev.json
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/bin/Debug/netcoreapp3.1/ClassMethodDemo.dll
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/bin/Debug/netcoreapp3.1/ClassMethodDemo.pdb
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.csprojAssemblyReference.cache
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.AssemblyInfoInputs.cache
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.AssemblyInfo.cs
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.csproj.CoreCompileInputs.cache
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.dll
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.pdb
+/Users/gulsahdursun/Desktop/CampHomeworks/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.genruntimeconfig.cache

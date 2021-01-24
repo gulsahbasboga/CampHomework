@@ -1,0 +1,12 @@
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/bin/Debug/netcoreapp3.1/CampHomeworkDictionary.deps.json
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/bin/Debug/netcoreapp3.1/CampHomeworkDictionary.runtimeconfig.json
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/bin/Debug/netcoreapp3.1/CampHomeworkDictionary.runtimeconfig.dev.json
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/bin/Debug/netcoreapp3.1/CampHomeworkDictionary.dll
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/bin/Debug/netcoreapp3.1/CampHomeworkDictionary.pdb
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/obj/Debug/netcoreapp3.1/CampHomeworkDictionary.csprojAssemblyReference.cache
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/obj/Debug/netcoreapp3.1/CampHomeworkDictionary.AssemblyInfoInputs.cache
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/obj/Debug/netcoreapp3.1/CampHomeworkDictionary.AssemblyInfo.cs
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/obj/Debug/netcoreapp3.1/CampHomeworkDictionary.csproj.CoreCompileInputs.cache
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/obj/Debug/netcoreapp3.1/CampHomeworkDictionary.dll
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/obj/Debug/netcoreapp3.1/CampHomeworkDictionary.pdb
+/Users/gulsahdursun/Desktop/CampHomeworks/CampHomeworkDictionary/obj/Debug/netcoreapp3.1/CampHomeworkDictionary.genruntimeconfig.cache
